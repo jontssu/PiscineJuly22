@@ -1,0 +1,5 @@
+Credentials cache: API:5215
+        Principal: jole@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 27 19:38:30 2022  Jun 28 05:38:30 2022  krbtgt/HIVE.FI@HIVE.FI

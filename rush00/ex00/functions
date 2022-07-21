@@ -1,0 +1,14 @@
+main
+{
+	check_arguments
+}
+
+ft_is_possible
+{
+	col
+	row
+	box
+	test
+}
+
+ft_print_sudoku>
